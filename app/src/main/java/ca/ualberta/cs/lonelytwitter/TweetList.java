@@ -18,7 +18,7 @@ public class TweetList {
         tweets.add(tweet);}
 
     }
-    public int getSize(){
+    public int getCount(){
         return tweets.size();
     }
 
